@@ -1,0 +1,36 @@
+{
+  "sessionId": "2026-10-05T01:37:36.273Z",
+  "sessionName": "Study this project code first.",
+  "updatedAt": "2026-10-05T01:40:54.263Z",
+  "items": [
+    {
+      "id": "it-83d7a7d7ae",
+      "content": "Draft the English Markdown documentation (docs/tugasan-tutorial.en.md)",
+      "status": "completed",
+      "activeForm": "Drafting the English Markdown documentation"
+    },
+    {
+      "id": "it-f7b079a499",
+      "content": "Draft the PowerPoint slide deck outline (Marp source + content)",
+      "status": "in_progress",
+      "activeForm": "Drafting the PowerPoint slide deck outline"
+    },
+    {
+      "id": "it-20d9ce8cc1",
+      "content": "Provide a runnable python-pptx generator script for the .pptx file",
+      "status": "pending",
+      "activeForm": "Providing the python-pptx generator script"
+    },
+    {
+      "id": "it-1814610397",
+      "content": "Summarize file manifest + build instructions and offer execution",
+      "status": "pending",
+      "activeForm": "Summarizing file manifest and build instructions"
+    }
+  ],
+  "goal": {
+    "text": "Sediakan dokumentasi feature tutorial \"Tugasan\" (English) sebagai fail Markdown + fail PowerPoint.",
+    "source": "ai",
+    "setAt": "2026-10-05T01:40:54.246Z"
+  }
+}
